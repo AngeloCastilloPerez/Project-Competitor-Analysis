@@ -1,5 +1,14 @@
 # Project-Competitor-Analysis
+## In the following project we look at an Australian retail chain operating in the "clothing retail" industry.
 
+## To date, the company has only been operating in New South Wales. However, the Board of Directors is considering expanding to one of the following three states:
+## .Queensland
+## .Victory
+## .Western Australia
+
+## Let's evaluate the business environments of the industry in question in each of these three states. We will use Tableau to display the results.
+
+# What do the results tell us?
 ### According to the analysis of industries carried out, it was determined that the best option to develop a retail business would be the state of Victoria, this is evident by its upward trend in its per capita spending in said market.
 In addition, an increasing trend (3 years) was forecast with a confidence of 95%.
 ## Project Tableau
